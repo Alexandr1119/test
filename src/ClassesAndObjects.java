@@ -3,6 +3,7 @@ public class ClassesAndObjects {
         Person person1 = new Person();
         person1.name = "Рома";
         person1.age = 50;
+        person1.age = 50;
         System.out.println("меня зовут " + person1.name + "," + " мне " + person1.age + ".");
 
         Person person2 = new Person();
