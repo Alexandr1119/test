@@ -6,10 +6,7 @@ public class ClassesAndObjects {
         person1.age = 50;
         System.out.println("меня зовут " + person1.name + "," + " мне " + person1.age + ".");
 
-        Person person2 = new Person();
-        person2.name = "Вова";
-        person2.age = 20;
-        System.out.println("меня зовут " + person2.name + "," + " мне " + person2.age + ".");
+
     }
 }
 class Person{
